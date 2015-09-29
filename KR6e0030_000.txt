@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸菩薩求佛本業經
+#+DATE: 2015-09-28 22:55:44.857164
+#+PROPERTY: JUAN 0
