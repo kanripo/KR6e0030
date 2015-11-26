@@ -1,12 +1,16 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:45.707531
-#+TITLE: 諸菩薩求佛本業經
-#+PROPERTY: CBETA_ID T10n0282
-#+PROPERTY: ID KR6e0030
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 282
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS T@MING
+#+TITLE: 諸菩薩求佛本業經 / T@MING
+#+DATE: 2015-11-26 14:11:06.999363
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ |   T@QISHA|【大→磧砂】  |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-<pb:KR6e0030_T_000-0451a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0030_001.txt][諸菩薩求佛本業經 1]]
